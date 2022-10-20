@@ -1,7 +1,7 @@
 /**
  * Web application
  */
-const apiUrl = '';
+const apiUrl = 'https://us-south.functions.appdomain.cloud/api/v1/web/eugenepark404%40gmail.com_dealership/guestbook/read-guestbook-entries';
 const guestbook = {
   // retrieve the existing guestbook entries
   get() {
